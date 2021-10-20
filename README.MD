@@ -1,5 +1,5 @@
 # pythonairtravel
 
-Learning classes on Python. This code is from an online tutorial.
+This code is from an online tutorial to learn Classes in Python.
 
 ![](assets/airtravel01.png)
